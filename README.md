@@ -1,1 +1,1 @@
-# pidr-article-rank-prediction
+This repository is intended to host the academic project [Exploring the Influence of Structural Features andMetadata in Predicting Conference Rankings forAcademic Papers]. The complete implementation and documentation will be migrated from the current internal repository and made available here soon.
